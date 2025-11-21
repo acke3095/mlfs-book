@@ -1,3 +1,9 @@
+### Description Lab Assignment ###
+Notebook files in notebooks/ contain C-level solution to assignment found in ID2223_Lab1_AQ_2025.pdf.
+
+Github Action automatic scheduling adjusted in mlfs-book/.github/workflows/air-quality-daily.yml and accessed via https://acke3095.github.io/mlfs-book/air-quality/.
+
+
 # mlfs-book
 O'Reilly book - Building Machine Learning Systems with a feature store: batch, real-time, and LLMs
 
